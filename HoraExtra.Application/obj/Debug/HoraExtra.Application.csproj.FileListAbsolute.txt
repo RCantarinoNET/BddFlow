@@ -1,0 +1,7 @@
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.exe.config
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.exe
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.pdb
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.csprojAssemblyReference.cache
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.csproj.CoreCompileInputs.cache
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.exe
+C:\Users\crcantarino\source\repos\bddExemplo\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.pdb
